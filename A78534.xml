@@ -1,0 +1,589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bank dialogue, or, Doctor Chamberlen's land-bank explained, by way of question and answer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78534</idno>
+            <idno type="STC">Wing C1868B</idno>
+            <idno type="STC">ESTC R230177</idno>
+            <idno type="EEBO-CITATION">45504405</idno>
+            <idno type="OCLC">ocm 45504405</idno>
+            <idno type="VID">171707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2587:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Bank dialogue, or, Doctor Chamberlen's land-bank explained, by way of question and answer.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Sowle, in White-Hart-Court in Gracious-Street ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chamberlen, Hugh.</term>
+               <term>Credit --  England.</term>
+               <term>Banks and banking --  England.</term>
+               <term>Deposit banking.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171707:1" rendition="simple:additions"/>
+            <head>A BANK-Dialogue: OR, <hi>Doctor Chamberlen's Land<g ref="char:punc">▪</g>Bank</hi> EXPLAINED, By way of Queſtion and Anſwer.</head>
+            <byline>By a Friend to ſo Good an <g ref="char:V">Ʋ</g>ndertaking.</byline>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label>
+               <hi>WHat is the meaning or ſignifi<g ref="char:EOLhyphen"/>cation of the Word Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> The Word Bank hath ſeveral ſigni<g ref="char:EOLhyphen"/>fications, and was often Antiently made uſe of in the Laws of <hi>England,</hi> tho' not now; but the more general meaning of that word, as now uſed, is a place, where great Wealth is laid up together, to be Let out at Uſe, or otherwiſe Diſpoſed to Pro<g ref="char:EOLhyphen"/>fit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>How comes it then to paſs, that Dr.</hi> Chamberlen <hi>calls his intended Bank, a Bank of Credit, intimating, as if Perſons, who brought Wealth to his Bank, or Store houſe, ſhould receive nothing for it back again but Credit; which is a meer empty Name, and</hi> (<hi>as</hi> Merry Andrew <hi>ſays of Honour</hi>) <hi>will not pay for a Shoulder of Mutton?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> You much miſtake the meaning of Credit, when you call it an empty Name only; for daily Experience ſhows it to be more uſeful than Money; for certainly there's above Ten parts in Twelve of the Trade of this Nation managed, or tranſ<g ref="char:EOLhyphen"/>acted, by Credit, or upon Truſt, which is but the ſame thing in another word: And, as <hi>England</hi> is at preſent more than ordina<g ref="char:EOLhyphen"/>rily unhappy by the want of Money in ge<g ref="char:EOLhyphen"/>neral, and by having even the greateſt part of that they do enjoy, ſo Adulterated, or Clipped, that the Intrinſick Value thereof cannot be known, unleſs you carry every Six-penny piece to a Say-Maſter, it is now more than ever neceſſary that Credit ſhould paſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon what muſt this Credit be found<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to make it good, and not ſubject to as many Tricks and Inconveniences as Money?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Upon Land certainly, for that will be the beſt Fund or Security whereon to Iſſue Credit; becauſe that can never be ſtole away, will never periſh, nor die, but be always the ſame, and will always yield ſome Increaſe, without any, or with the leaſt hazard.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>How can Land poſſibly be brought into a Bank, or made a Security for Credit?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Juſt in the ſame manner as Lands are now made a Security for Money by Mort<g ref="char:EOLhyphen"/>gage, or other proper Conveyances in the Law.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>How muſt a Man receive Credit for his Land, ſo as that it may be known and uſeful to him?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> By Bills of Credit, which are deli<g ref="char:EOLhyphen"/>vered to all Perſons that make over, or con<g ref="char:EOLhyphen"/>vey their Land to the Bank.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>What do you mean by a Bill of Credit?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> A Bill of Credit, is a Paper, or other Writing, whereby it is declared, that the ſaid Bill is of the Value therein mentioned, (as Ten, or One Hundred Pounds) and that Land is made over to the Bank, to Anſwer, or make Good the Value of ſuch Bill, to any Perſon that ſhall have the ſame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>May any Body have Bills of Credit, that will come to Dr.</hi> Chamberlen<hi>'s Bank for them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; only ſuch Landed Men as make over their Land to the Bank, for making good the Bills of Credit they take out there<g ref="char:EOLhyphen"/>upon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>To what Value may Landed Men have Bills of Credit upon their Land?</hi>
+            </p>
+            <pb facs="tcp:171707:2"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> That may be ſeen in the Doctor's Proproſal; but in ſhort it is 8000 <hi>l.</hi> in Cre<g ref="char:EOLhyphen"/>dit for every 100 <hi>l.</hi> a Year in Land.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Does the Landed Man ſell his Land to the Bank for ſuch Bills of Credit?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; only Charges his Land to make good, or pay into the ſaid Bank ſuch Year<g ref="char:EOLhyphen"/>ly Sum of a Hundred Pound.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>For how long time muſt the ſaid payment of a Hundred Pound a Year continue, to be made to the ſaid Bank for</hi> 8000 l. <hi>Bills of Credit?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> For a Hundred Years.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why for a Hundred Years? That will come to</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0000 l. <hi>and Eighty Years will make good</hi> 8000 l.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> The other 2000 <hi>l.</hi> is to enable the Office to defray the Charges paſt, and for Management for the Hundred Years to come; and the remainder, if any, is to be his Reward for his many Years Labour, and Charges, in bringing this Bank to paſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>What muſt any Body do with theſe Bills of Credit when he hath them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> The ſame as with ſo much Money, buy Land, or Goods, or employ Perſons in any ſort of Work.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why do you ſay ſo? Will they paſs in a<g ref="char:EOLhyphen"/>ny payment as Money, and to any Perſon?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Yes, certainly; for theſe Bills are ſure Pledges or Securities for ſuch Sums of Mo<g ref="char:EOLhyphen"/>ney as are mentioned in each reſpectively; and ſo will paſs as currently as Money a<g ref="char:EOLhyphen"/>mong all people; tho' Credit, as now ma<g ref="char:EOLhyphen"/>naged, paſſes only amongſt Acquaintance, none caring to Truſt thoſe they do not know; becauſe they cannot make any rea<g ref="char:EOLhyphen"/>ſonable gueſs, whether they ſhall ever be paid for what they ſo Truſt, or not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>But may not this Office Iſſue out more Bills of Credit, than there is Land tyed to make good?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; for there are Perſons of great Honour and Stations in this Nation, who have conſiderable Yearly Salaries allowed them, purely to take care of that, one or more of whom is to Atteſt every Bill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>What is to be done with the Hundred Pound a Year, which is to be paid into the Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> That is to be employed every Year in buying up, or paying off Bills of Credit which have been Iſſued out, that they may be deſtroy'd; ſo that in a Hundred Years there will be never a Bill left, nor no Land tyed, but all things will then become a<g ref="char:EOLhyphen"/>gain <hi>(in ſlatu quo)</hi> juſt as they are now; and in the mean time Landed Men may play with Trade, and ſtake theſe Bills of Credit, as Counters inſtead of Money, and make the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ank their depoſite, which will certainly fully Anſwer, and Satisfie all the ſaid Bills at the end of the Term.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>May every Landed Man for a</hi> 100 l. <hi>a Year in Land, have</hi> 8000 l. <hi>Bills of Credit preſently down, to diſpoſe of as he pleaſes?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> He ſhall at ſeveral payments, in four Years time, have 5000 <hi>l.</hi> at his own Diſ<g ref="char:EOLhyphen"/>poſal, and 3000 <hi>l.</hi> more in a Joint-ſtock, to manage a Trade, of which he ſhall have the Sole Advantage and Management.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why will the Bank be four Years in Iſ<g ref="char:EOLhyphen"/>ſuing out the ſaid Bills of Credit, and not do it preſently?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> One reaſon is, becauſe the ſaid Bills will be ſome time a making, but the main Reaſon is, becauſe the Nation ſhould not be clogged with them all at once, nor Chap<g ref="char:EOLhyphen"/>men abuſed by raiſing the price of Goods.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>I am told every Landed Man muſt pay</hi> 1000 l. <hi>in Money into the ſaid Bank, for every</hi> 100 l. <hi>a Year that he ſettles, why muſt that be done?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> It is to Change 1000 <hi>l.</hi> of the 3000 <hi>l.</hi> Bills in the Joint-ſtock into Money, for which 1000 <hi>l.</hi> in Money, they have 1000 <hi>l.</hi> in Bills of Credit, and ſo no hurt done.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>What need is there of ſuch chopping and changing, of Money for Bills, and Bills for Money, ſince they are both of equal Value?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> It is to enable the ſaid Bank to turn into Money all ſuch Bills of Credit, as ſhall be brought to be changed, which will ne<g ref="char:EOLhyphen"/>ver be deſired, but by croſs, and peeviſh, or ignorant Perſons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why will the croſs and ignorant bring their Bills to the Bank to be changed into Mo<g ref="char:EOLhyphen"/>ney?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> The croſs will do it (as the Devils do every thing) purely for miſchief ſake, to give trouble, and make a buſtle; and the ignorant, becauſe they know nothing but Money.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why muſt the</hi> 3000 l. <hi>of the</hi> 8000 l. <hi>be put into a Joint-ſtock?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> That is not done purely for Advan<g ref="char:EOLhyphen"/>tage to the Landed Men, tho' it is certain<g ref="char:EOLhyphen"/>ly true, that great Stocks generally drive or carry on the moſt profitable Trades, or Undertakings, but chiefly as a Caution or Security to make good the 100 <hi>l.</hi> a Year, which is to be paid, to Anſwer the Bills of Credit Iſſued thereupon; and ſo not to be alienated from that Land; at leaſt it is in the firſt place to make good the ſaid pay<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Is not</hi> 10000 l. <hi>too great a Credit to Iſſue upon</hi> 100 l. <hi>a Year Land?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; in regard the Land is able to make it good, being never required to pay more than 100 <hi>l.</hi> a Year, and not the whole 10000 <hi>l.</hi> at one payment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>But if any Perſon ſhould make over an Eſtate to the Bank, which he is not intituled to, how muſt ſuch be made good unto the Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> By the 3000 <hi>l.</hi> ſuch Perſons hath in
+<pb facs="tcp:171707:2" rendition="simple:additions"/>the Joint-ſtock; which if it produce but Four <hi>per Cent. per Annum,</hi> is ſufficient; and I never yet heard of any Tradeſman that made ſo little.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>If the Lands ſettled ſhould fall in their Yearly Rent by Taxes, or otherwiſe, will not the Bank, in ſuch caſe, be a Loſer?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; unleſs they fall more than ever yet was known; for 150 <hi>l. per Annum</hi> is ſettled, to make good the payment of 100 <hi>l. per Annum,</hi> and for 150 Years to make good 100 Yearly payments, now 150 <hi>l. per Annum</hi> for 150 Years, comes to 22500 <hi>l.</hi> which is above double what it is obliged to make good <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and no doubt but Land by this Bank, will be improved, and not leſ<g ref="char:EOLhyphen"/>ſened in Value.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Is not</hi> 100 <hi>Years too long a Term for a<g ref="char:EOLhyphen"/>ny Landed Man to charge, or incumber his Eſtate?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No, certainly; for now it is common<g ref="char:EOLhyphen"/>ly done. Mortgages are often made for a 1000 Years, and for Ever, if not redeem<g ref="char:EOLhyphen"/>ed before; and here it is for 100 Years cer<g ref="char:EOLhyphen"/>tain; and Leaſes are frequently made for Fines paid down, and Small Rents reſerved for 99 Years, or Three Lives; and this Bank gives a ſufficient Satisfaction for ſuch Incumbrance.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Will not the Iſſuing out ſo many Bills of Credit clog the Nation; and enhaunce the Price of Goods?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; for Forty Millions will not pay the Debts that are owing upon Mortgages, and by one Trader to another; and it re<g ref="char:EOLhyphen"/>quires 400000 <hi>l.</hi> a Year in Land, to raiſe ſuch a number of Bills: And to continue Trade, by employing thoſe who are alrea<g ref="char:EOLhyphen"/>dy employed, as well as ſuch who are now ready to ſtarve for want of Employment, will need a further mighty Caſh; and Fo<g ref="char:EOLhyphen"/>reigners will come hither from all parts, when they are ſure to be employed; which will enrich and ſtrengthen this Nation; beſides every Year a hundredth part of theſe Bills will be deſtroyed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Can this Bank be Eſtabliſhed without an Act of Parliament?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Yes; for nothing is done by the Bank againſt Law.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why then did the Doctor Apply to the Parliament, to get an Act to Eſtabliſh this Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> That was only to get them to enforce the Circulation of the Bills, and to give them the Name of Money; and ſince that time, neceſſity and experience, have made the Nation wiſe enough to take them withou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Cannot the Parliament Suppreſs the Bank, and ſo force every one that has taken the Bills to Loſe by them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; with all reverence to that Auguſt Aſſembly be it ſpoken; for Parlaments have Bounds, and they can no more <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than they can make a Law for <hi>A.</hi> to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>joy <hi>B</hi>'s Eſtate; which all who have treat<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the power of Parliaments, ſay they ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>not do; they are to preſerve, and not to d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſtroy Property; and I never yet heard it was a Crime for any Perſon to Len<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 10000 <hi>l.</hi> upon 100 <hi>l.</hi> a Year Security; no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for any one to Borrow ſo much, if he could.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Why ſhould any Perſon make over their Lands to the Bank for Bills of Credit; when they may have Money at any Scriveners upon them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Becauſe here they can have 8000 <hi>l.</hi> when the Scriveners will Lend but 1500 <hi>l.</hi> at moſt; and here they pay but 5 <hi>s.</hi> or a quarter of one <hi>per Cent. per Annum</hi> Intereſt; and the principal in 100 Years by 20 Shil<g ref="char:EOLhyphen"/>lings a Year for every 100 <hi>l.</hi> or which is the ſame thing, 25 Shillings a Year Intereſt for every Hundred Pound for 100 Years, and never repay the principal: And at a Scrive<g ref="char:EOLhyphen"/>ners you muſt pay 3 <hi>l. per Cent. per Annum</hi> at leaſt, and the principal again. Which as will be Demonſtrated by the Learned in <hi>Arithmetick,</hi> makes the going to the Bank, above 60 times more Advantageous, than taking Money at Intereſt any where elſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Do other Banks, namely Doctor</hi> Bare<g ref="char:EOLhyphen"/>bone<hi>'s, the Orphans,</hi> &amp;c. <hi>do ſo as well as the Doctor's?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; they are purely Contrivances for profit to themſelves, and Excel Scriven<g ref="char:EOLhyphen"/>ers only in this, that they Lend 1500 <hi>l.</hi> upon 100 <hi>l.</hi> a Year, and Scriveners com<g ref="char:EOLhyphen"/>monly Lend but 1000 <hi>l.</hi> and they take but 3 <hi>l. per Cent. per Annum</hi> Intereſt, when Scriveners and Miſers take 6 pound and ſomtimes 20 <hi>l. per Cent. per Annum</hi> Intereſt Procuration and Continuation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Will it not be <g ref="char:V">Ʋ</g>njuſt for the Doctor to ſet up ſuch a Bank now after other Banks are ſet up before him, which muſt be ruined by this Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Firſt the Doctor, as he is ready to make appear, was the firſt Contriver of a Bank of Credit upon Land-rents, and all other Banks now in being, or going to be (for ought appears) are but imperfect Sketches or Imitations of his, and thoſe too Stolen from him, ſo it is his Right. But who<g ref="char:EOLhyphen"/>ever thought it unjuſt to root up a Thiſtle, to plant a Cedar in its room; and tho' Turn-ſpits were once uſeful, yet Jacks for Ages paſt have been admitted into this Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Will not theſe Bank-Bills make Money uſeleſs?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> No; for Money will ſtill be uſeful in all ſmall payments, and to Change theſe Bills; as Silver to Change 5 <hi>l.</hi> pieces of Gold, and Farthings to Change Silver.</p>
+            <pb facs="tcp:171707:3" rendition="simple:additions"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>What ſhall great Monied Men do with <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir Money?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Bring it into this Joint-Stock, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd it to Merchants, or Trades-Men, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon any other Security that is more hazar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous than Land, and ſo they will do the Nation good; for now they do good only <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o themſelves; adding Wealth to Wealth, by the Labour and Induſtry of others, U<g ref="char:EOLhyphen"/>ſerers not caring now to lend their Money to any, but thoſe who will Mortgage Land to ſecure it; or if they do Lend a Merchant, or a Sea Captain, or a Trader any, they will have at leaſt 10 <hi>l. per Cent. per Annum,</hi> which is a mighty Clog to Trade, and very unequal.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Cannot theſe Bills of Credit be Coun<g ref="char:EOLhyphen"/>terfeited?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Not near ſo eaſily as Money, Mort<g ref="char:EOLhyphen"/>gages, Bonds, Bills of Exchange, or Gold<g ref="char:EOLhyphen"/>ſmiths Notes, all which are notwithſtand<g ref="char:EOLhyphen"/>ing of uſe; for here ſeveral Hands muſt be Counterfeited, beſides other things, which is almoſt impoſſible; at leaſt proviſion is Ef<g ref="char:EOLhyphen"/>fectually made that none need to be deceiv<g ref="char:EOLhyphen"/>ed by them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>How may any one that is not able to pay</hi> 1000 <hi>l. in Money, and yet can ſettle a</hi> 100 <hi>l. a Year in Land, come into the Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> He may get ſome Friend to pay it for him, and take ſo many Bills as the 1000 <hi>l.</hi> comes too; elſe there are Perſons that will do it for a reaſonable Conſideration.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Where may ſuch Perſons be found, as will pay the</hi> 1000 <hi>l. in Money, and take the Bills?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Any Perſon that asks the Doctor may be informed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>May any Perſon who has Mortgaged his Eſtate, come into the Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Yes, as well as remove a Mortgage any where elſe, which is daily done.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>But the Doctor propoſes to pay down for Engaging</hi> 100 l. <hi>a Year, but</hi> 1000 l. <hi>in Bills, and</hi> 400 l. <hi>muſt be paid down in Money, ſo that the Landed Man receives but</hi> 600 l. <hi>down, and many times his Eſtate is Mortgaged for more, and how muſt ſuch be ſupplied?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> The Doctor will ſupply all ſuch with Bills ſufficient to pay off their Incumbran<g ref="char:EOLhyphen"/>ces, as far as 4000 <hi>l.</hi> if neceſſary, paying only diſcount at 5 <hi>l. per Cent. per Annum,</hi> for what they ſhall ſo Borrow.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Where may one come to have the Benefit of this Bank?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> At Doctor <hi>Chamberlen</hi>'s Houſe in <hi>Eſſex-ſtreet,</hi> Mr. <hi>White</hi>'s Chamber at <hi>Numb.</hi> 7. in the <hi>New Buildings</hi> in <hi>Lincolns-Inn;</hi> and at Mr. <hi>Puckles,</hi> at the <hi>Outropers-Office</hi> on the <hi>Royal Exchange.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>Does this Bank iſſue out Bills of Credit already upon Land, or not; and if not, when will they?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> They do not yet, but will ſo ſoon as 50000 l. <hi>per Annum</hi> in Land is Subſcri<g ref="char:EOLhyphen"/>bed?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>
+               </label>
+               <hi>When may that be reaſonably ſuppoſed to be done?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. </seg>
+               </label> Very ſpeedily, more than Half that Sum being already Subſcribed, although very little publication hath hitherto been made of the Books being open for Subſcrip<g ref="char:EOLhyphen"/>tions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street;</hi> where ſeveral Small Treatiſes of Banks may be alſo had. 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
